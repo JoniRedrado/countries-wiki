@@ -3,6 +3,7 @@ import Cover from '../cover/Cover'
 import { Link, useParams } from 'react-router-dom'
 import axios from 'axios'
 import './Country.css'
+import Footer from '../footer/Footer'
 
 const Country = () => {
 
@@ -52,6 +53,7 @@ const Country = () => {
         <a href={maps.googleMaps} target="_blank" rel="noreferrer">Ver en GoogleMaps</a>
       </article>
       </div>
+      <Footer />
     </div>
   ) 
 }

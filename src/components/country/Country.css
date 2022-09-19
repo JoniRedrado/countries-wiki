@@ -3,6 +3,7 @@
     justify-content: center;
     background: rgb(93,151,242);
     background: radial-gradient(circle, rgba(93,151,242,1) 0%, rgba(29,33,253,1) 50%, rgba(56,75,245,1) 100%);
+    margin-bottom: 100vh;
 }
 
 .country-details > article {
