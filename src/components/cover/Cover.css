@@ -1,0 +1,33 @@
+.cover-container {
+    height: 60vh;
+    width: 100%;
+    object-fit: contain;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.cover-img {
+    object-fit: cover;
+    width: 100%;
+    height: 60vh;
+    position: absolute;
+    z-index: -1;
+}
+
+.cover-container > h1 {
+    color: white;
+    font-size: 48px;
+    background-color: rgba(0, 0, 0, 0.678);
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.cover-container > p {
+    color: white;
+    font-size: 24px;
+    padding: 15px;
+    border-radius: 15px;
+    background-color: rgba(0, 0, 0, 0.678);
+}
