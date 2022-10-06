@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/countries-wiki/static/css/main.c38c8752.css",
-    "main.js": "/countries-wiki/static/js/main.c1616a59.js",
+    "main.js": "/countries-wiki/static/js/main.6c7bfac5.js",
     "static/media/map.jpg": "/countries-wiki/static/media/map.bb7a4a7138f340b36e3b.jpg",
     "index.html": "/countries-wiki/index.html",
     "main.c38c8752.css.map": "/countries-wiki/static/css/main.c38c8752.css.map",
-    "main.c1616a59.js.map": "/countries-wiki/static/js/main.c1616a59.js.map"
+    "main.6c7bfac5.js.map": "/countries-wiki/static/js/main.6c7bfac5.js.map"
   },
   "entrypoints": [
     "static/css/main.c38c8752.css",
-    "static/js/main.c1616a59.js"
+    "static/js/main.6c7bfac5.js"
   ]
 }
